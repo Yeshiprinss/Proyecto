@@ -3,6 +3,7 @@ package Actividad1;
 /*
  Modificado por: Yessenia Martinez
  */
+// Segunda modificacion 
 
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
